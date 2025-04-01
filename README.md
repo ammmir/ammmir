@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 My latest open-source project is a code sandboxing server: [sandboxer](https://github.com/ammmir/sandboxer)
+- 🌱 Read my hand-written blog at https://amirmalik.net
+- 📫 Interested in collaborating or hiring? Email [amir@amirmalik.net](mailto:amir@amirmalik.net?subject=Hello%20from%20GitHub)
+
 <!--
 **ammmir/ammmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
